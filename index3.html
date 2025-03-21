@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Custo de Transporte Fretado</title>
+    <link rel="stylesheet" href="style3.css"> <!-- Link para o CSS -->
+    
+</head>
+<body>
+    <div class="box">
+        <h1>Calculadora de Custo de Transporte Fretado</h1>
+        <label for="qtdFuncionarios">Quantidade de Funcionários:</label>
+        <input type="number" id="qtdFuncionarios" placeholder="Insira a quantidade" required>
+        
+        <label for="qtdDias">Quantidade de Dias:</label>
+        <input type="number" id="qtdDias" placeholder="Insira a quantidade de dias" required>
+        
+        <button onclick="calcularCusto()">Calcular</button>
+        <button onclick="limparCampos()">Limpar</button>
+        
+        <div id="resultado"></div>
+        <script src="codigo3.js" defer></script> <!-- Link para o JS -->
+    </div>
+</body>
+</html>

@@ -1,0 +1,41 @@
+body {
+    background-color: grey;
+    color: #FFF;
+    font: 1em Arial;
+    text-align: center;
+}
+
+.box {
+    width: 40%;
+    height: auto;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px black solid;
+    background-color: #333;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #000;
+    text-align: center;
+}
+
+input {
+    height: 30px;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+#res {
+    font-size: larger;
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+
+button {
+    width: 45%;
+    height: 40px;
+    border-radius: 10px;
+    margin: 5px;
+    background-color: #444;
+    color: white;
+
+}
