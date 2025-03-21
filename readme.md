@@ -40,7 +40,7 @@ Agora você pode me dizer o que quer dentro desses arquivos novos! 🚀
   
 ## 🌐 Link do Projeto
 
-Acesse o projeto em: https://joaquimvt.github.io/Exercicios_JS/
+Acesse o projeto em: https://joaquimvt.github.io/Projeto_JS/
 
 
 📌 Desenvolvido por Joca.vt
